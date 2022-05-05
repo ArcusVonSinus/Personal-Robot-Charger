@@ -1,5 +1,5 @@
 # Personal-Robot-Charger
-Mod for factorio. Adds a versions of personal roboports that do not increase the construction range.
+Mod for factorio. Adds versions of personal roboports that do not increase the construction range.
 
 Inspired by CzBuCHi and his mod Factorio_Personal-Roboport-with-no-Construction-Range, see https://github.com/CzBuCHi/Factorio_Personal-Roboport-with-no-Construction-Range.
 
