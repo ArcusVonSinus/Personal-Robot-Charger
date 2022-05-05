@@ -1,0 +1,10 @@
+{
+  "name": "PersonalRobotCharger",
+  "version": "0.0.1",
+  "title": "Personal roboport without construction range",
+  "author": "Arcus von Sinus",
+  "contact": "ondrej.bouchala@gmail.com",
+  "license": "GNU GPL-3.0 or later",
+  "description": "Adds a personal roboport without range. Inspired by CzBuCHi.",
+  "factorio_version": "1.1"
+}
